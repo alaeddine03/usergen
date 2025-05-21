@@ -1,4 +1,4 @@
-# KeePass Usergen
+# AD Usergen
 
 Generate username variations from a list of "First Last" names, with flexible input, output, and domain settings.
 
